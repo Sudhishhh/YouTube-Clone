@@ -1,0 +1,21 @@
+ p{
+            font-family:Roboto,Arial;
+            margin-top:0%;
+            margin-bottom:0%;
+           
+        }
+
+.top-border-bar {
+  position: fixed;
+  top: 55px; /* exactly below the fixed header */
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-color: rgb(220, 220, 220); /* light gray like YouTube */
+  z-index: 100;
+}
+body {
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif;
+ 
+}
